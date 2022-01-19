@@ -1,5 +1,5 @@
 # MapReduce
-A simple project on the use of map and reduce in Hadoop. The movie dataset was extracted from Kaggle.
+A simple project on the use of map and reduce in Hadoop. The movie dataset was extracted from Kaggle: https://www.kaggle.com/rounakbanik/the-movies-dataset?select=movies_metadata.csv. There are two datasets used in this project which is the movies_metadata (some columns were removed) and the ratings (26mil rows). 
 
 This project aims to gather insights about movies ratings and budget through descriptive analysis by leveraging the parallel processing capabilities of Hadoop Map Reduce.
 
